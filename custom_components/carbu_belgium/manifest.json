@@ -1,0 +1,10 @@
+{
+  "domain": "carbu_belgium",
+  "name": "Fuel Price in Belgium",
+  "documentation": "https://github.com/Fonzy007/carbu_belgium",
+  "issue_tracker": "https://github.com/Fonzy007/carbu_belgium/issues",
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": ["@Fonzy007"],
+  "requirements": []
+}
